@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="destenation"
+  DTS:DTSID="{7986AD10-D1CC-4207-AC9E-14920DDDA403}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-PHGQ0U7\SHALABYSERVER;Initial Catalog=SalesDW;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Sales_Data-{7986AD10-D1CC-4207-AC9E-14920DDDA403}DESKTOP-PHGQ0U7\SHALABYSERVER.SalesDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
