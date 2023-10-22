@@ -9,7 +9,7 @@ By using [AdventureWorks2014](https://github.com/Microsoft/sql-server-samples/re
 * SQL Server Integration Services (SSIS)
 * SQL Server Management Studio (SSMS)
 
-## Project Stages
+## Project Stages:
 
 **1- Data Extraction:** 
 
@@ -42,8 +42,6 @@ By using [AdventureWorks2014](https://github.com/Microsoft/sql-server-samples/re
 ### Star Schema Design:
 Meticulously crafted a star schema that forms the backbone of our data mart. This star schema comprises four dimension tables—Product, Customer, Territory, and Date—and a central fact table housing our key measures and surrogate keys from the dimension tables. This design provides a solid foundation for efficient data analysis and reporting, ensuring that our data mart is well-structured and optimized for our specific analytical needs.
 
-
-![Sales Data Mart Star Schema](#link)
 
 ### SSIS Packages:
 I have created six packages to build this data mart 
