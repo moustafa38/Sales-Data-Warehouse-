@@ -51,6 +51,5 @@ I have created six packages to build this data mart
 * dim_Date
 * Fact_Sales_Full_Load 
 * Fact_Sales_Increamental_Load
-
-* ### Note
+### Note:
 * there is fact table for full load and another for increamental load
