@@ -9,6 +9,8 @@ By using [AdventureWorks2014](https://github.com/Microsoft/sql-server-samples/re
 * SQL Server Integration Services (SSIS)
 * SQL Server Management Studio (SSMS)
 
+## Project Stages
+
 **1- Data Extraction:** 
 
 
